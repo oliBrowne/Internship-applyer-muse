@@ -2,6 +2,20 @@
   <img src="docs/banner.svg" alt="Claude Code's mascot finds roles and builds a resume, hands it across the workbook, and Muse's Jolly applies" width="100%">
 </p>
 
+<p align="center">
+  <img alt="Claude skills: 3" src="https://img.shields.io/badge/Claude-3%20skills-D97757">
+  <img alt="Muse applies" src="https://img.shields.io/badge/Muse-applies-7896F0">
+  <img alt="About $20 a month" src="https://img.shields.io/badge/cost-~%2420%2Fmonth-6BBF73">
+  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-555"></a>
+</p>
+
+<p align="center">
+  <a href="#quick-start"><b>Quick start</b></a> ·
+  <a href="SETUP_PROMPT.md"><b>Setup prompt</b></a> ·
+  <a href="docs/GETTING_STARTED.md"><b>Checklist</b></a> ·
+  <a href="dist"><b>Skill downloads</b></a>
+</p>
+
 # Internship Applyer (Claude + Muse)
 
 An AI-agent setup for internship season. Claude finds roles and builds your resumes, Muse applies, and you only step in when something's blocked.
