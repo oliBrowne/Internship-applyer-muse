@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/banner.svg" alt="Claude Code's mascot finds roles and builds a resume, hands it across the workbook, and Muse's Jolly applies" width="100%">
+</p>
+
 # Internship Applyer (Claude + Muse)
 
 An AI-agent setup for internship season. Claude finds roles and builds your resumes, Muse applies, and you only step in when something's blocked.
